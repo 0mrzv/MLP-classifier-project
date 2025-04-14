@@ -17,3 +17,5 @@ The MLP classifier is implemented to achieve robust performance with minimal com
 - **Description**: The dataset contains input samples belonging to three classes.
 - **Visualization**: A 2D scatter plot (Figure 1) illustrates the separability of the classes.
 - **Task**: Multi-class classification in low-dimensional space.
+
+![2D Scatter Plot of Classes](Class_distribution.svg)
